@@ -1,0 +1,9 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "my personal blog",
+  "main": "index.js",
+  "repository": "https://github.com/AlexNeva/my-blog.git",
+  "author": "Aleksandr Nevskii",
+  "license": "MIT"
+}
