@@ -2,5 +2,5 @@
 my blog platform
 
 stack:
-    frontend: Next.js
+    frontend: Next.js,
     backend: Strapi
